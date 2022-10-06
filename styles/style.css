@@ -30,30 +30,6 @@ header {
 .jumbo-h1 {
   position: absolute;
   font-family: "Bungee Spice", cursive;
-  color: gold;
-  top: 45rem;
-  left: 30rem;
   font-size: 10rem;
-}
-
-@media only screen and (max-width: 920px) {
-  .jumbo-h1 {
-    position: absolute;
-    font-family: "Bungee Spice", cursive;
-    color: gold;
-    top: 40rem;
-    left: 15rem;
-    font-size: 5rem;
-  }
-}
-
-@media only screen and (max-width: 550px) {
-  .jumbo-h1 {
-    position: absolute;
-    font-family: "Bungee Spice", cursive;
-    color: gold;
-    top: 30rem;
-    left: 2rem;
-    font-size: 3rem;
-  }
+  color: gold;
 }
